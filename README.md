@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="180" src="https://i.pinimg.com/originals/32/44/01/324401aa18cc80c55f338dcd4674cb80.gif"  />
+<img align="right" height="180" src="https://i.pinimg.com/originals/6f/a2/10/6fa21036143547ecf03dbff966c90aea.gif"  />
 
 ###
 
@@ -27,18 +27,6 @@
 </div>
 
 ###
-
-<img align="left" height="180" src="https://i.pinimg.com/564x/d3/b7/1b/d3b71b78b036dd9c958eebb74a98c4d9.jpg"  />
-
-###
-
-<div align="left">
-   ㅤ ㅤ ㅤ <a href="https://open.spotify.com/user/qn6ouvff7k3vd0q97w4r9nz75">
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=qn6ouvff7k3vd0q97w4r9nz75&count=3" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 ---
 <div align="center">
  ㅤㅤㅤㅤㅤㅤ <img src="https://github-readme-stats.vercel.app/api?username=xpablosx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -52,4 +40,19 @@
 
 ###
 ---
+<img align="left" height="180" src="https://i.pinimg.com/564x/d3/b7/1b/d3b71b78b036dd9c958eebb74a98c4d9.jpg"  />
 
+###
+
+<div align="left">
+   ㅤ ㅤ <a href="https://open.spotify.com/user/qn6ouvff7k3vd0q97w4r9nz75">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=qn6ouvff7k3vd0q97w4r9nz75&count=3" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+---
+<div align="right">
+<img height="600" src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif"  />
+
+###
