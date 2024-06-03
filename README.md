@@ -15,11 +15,12 @@
 ###
 
 <div align="center">
+<a href="https://www.linkedin.com/in/pablo-campos-de-paula-20941230b/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="61" height="36" alt="linkedin logo"  />
 <a href="https://www.instagram.com/eipablo_campos" target="_blank"> 
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="61" height="36" alt="instagram logo"  />
-</a>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="61" height="36" alt="twitter logo"  />
+<a href="https:/https://dribbble.com/pablo_campos" target="_blank"> 
+<img src="https://static.vecteezy.com/system/resources/previews/023/986/617/large_2x/dribbble-logo-dribbble-logo-transparent-dribbble-icon-transparent-free-free-png.png" width="45" height="43" alt="Dribbble logo"  />
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="61" height="36" alt="twitch logo"  />
 </div>
 
