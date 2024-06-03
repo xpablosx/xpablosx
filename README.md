@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Meu nome é Pablo Campos, tenho 16 anos. Estou fazendo alguns projetos pelo P5JS e VSC com a ajuda do Alura, criei essa conta aqui, para conhecer mais e gurdar os projetos.</p>
+<p align="left">Meu nome é Pablo, tenho 16 anos. Estou fazendo alguns projetos pelo P5JS e VSC com a ajuda do Alura, criei essa conta aqui, para conhecer mais e guardar os projetos.</p>
 
 ###
 
